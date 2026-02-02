@@ -1,1 +1,0 @@
-/* No Javascript, simple boostrap html and css */
