@@ -2,7 +2,7 @@ var seconds = document.getElementById("seconds");
 		var minutes = document.getElementById("minutes");
 		var hours = document.getElementById("hours");
 
-		// now calculate the initian deg form current time
+		// now calculate the initian deg form current time   
 
 		var currentTime = new Date();
 
