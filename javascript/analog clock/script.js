@@ -3,6 +3,7 @@ var seconds = document.getElementById("seconds");
 		var hours = document.getElementById("hours");
 
 		// now calculate the initian deg form current time   
+		
 
 		var currentTime = new Date();
 
