@@ -11,6 +11,7 @@ body {
   background: #1D1F20;
 }
 #box {
+  
   display: flex;
   align-items: center;
   justify-content: center;
