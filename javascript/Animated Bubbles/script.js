@@ -39,6 +39,7 @@ function bubbles() {
     
     // Apply the new styles
     $this.css({
+      
       'left' : pos_rand + '%',
       
       '-webkit-animation-duration' : speed_rand + 's',
